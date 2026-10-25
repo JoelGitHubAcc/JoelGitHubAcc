@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **JoelGitHubAcc/JoelGitHubAcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,10 +21,9 @@ I'm a final-year **BSc Data Science** student interested in artificial intellige
 ---
 <!-- 
 ## 🧠 Technical Skills  
-**Languages:** Java, Python, C, C++, C#, SQL, 
-C++, Java, Kotlin, Python, SQL, Assembly (x86), HTML, CSS, Javascript, Classic ASP, TypeScript  
-**Core Knowledge:** OOP, DBMS, Data Structures & Algorithms, Basic Networking  
-**Frameworks:** Tkinter, Jetpack Compose  
+**Languages:** Java, Python, C, C++, C#, SQL, HTML, CSS, JS
+**Core Knowledge:** OOP, Data Structures & Algorithms, AI
+**Frameworks:** <Fill in another time>
  -->
 
 ---
