@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 I'm a final-year **BSc Data Science** student interested in artificial intelligence, machine learning, and high-performance system development.
 
----
 <!-- 
+---
+
 ## 🧠 Technical Skills  
 **Languages:** Java, Python, C, C++, C#, SQL, HTML, CSS, JS
 **Core Knowledge:** OOP, Data Structures & Algorithms, AI
